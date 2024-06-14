@@ -1,7 +1,7 @@
 # Daily Algorithm Practice
 
 Welcome to the **Daily Algorithm Practice** repository! This repository is dedicated to documenting my daily coding journey through LeetCode challenges. By maintaining a consistent streak of solving algorithmic problems, I aim to enhance my problem-solving skills and deepen my understanding of data structures and algorithms.
-![Motivation Image](motivation.png)
+![Motivation Image](motivation.jpg)
 
 ## About
 
